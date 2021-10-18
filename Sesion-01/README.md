@@ -14,7 +14,7 @@ Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar est�
 + Agregar los requisitos de la sesión 
 + Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
 
-## 🎩 Buenas prácticas
+## 🎩 Contenido 
 
 Agregar buenas prácticas en caso de que la sesión lo requierea, de no ser así borrar está intrucción una vez se haya leido.
 
